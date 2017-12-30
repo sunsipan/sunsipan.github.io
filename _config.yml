@@ -1,0 +1,73 @@
+#
+###################################
+# Site wide configuration
+####################################
+#
+title:       "SunKatrina盼盼's Blog"
+description: '尝一口人间果，走一遭人生路'
+url:         # the base hostname & protocol for your site
+
+#
+###################################
+# Jekyll configuration
+####################################
+#
+timezone:          Asia/Shanghai
+markdown:          kramdown
+highlighter:       pygments
+excerpt_separator: <!--more-->
+permalink:         /:year/:month/:title/
+timezone:          Asia/Shanghai
+
+kramdown:
+  auto_ids:       true
+  footnote_nr:    1
+  entity_output:  as_char
+  toc_levels:     1..6
+  enable_coderay: false
+
+# Pagination
+gems: [jekyll-paginate]
+paginate: 10
+paginate_path: "page/:num/"
+
+#
+###################################
+# Site Owner configuration
+####################################
+#
+owner:
+  name: SunKatrina盼盼
+  avatar: avatar.jpg
+  job: "python"
+  bio: "尝一口人间果，走一遭人生路"
+
+  github: sunsipan #username
+  weibo: SunKatrina盼盼 #username
+  facebook:  #username
+  email: 1635707508@qq.com
+  duoshuo:  #多说域名
+
+  google:
+    plus: #username
+    analytics: UA-62251910-1
+    verify:
+    ad-client:
+    ad-slot:
+  bing-verify:
+  disqus-shortname: #username
+  twitter:  #username
+  stackoverflow: #123456/username   from a "http://stackoverflow.com/users/123456/username" link
+  linkedin: #username
+  xing: #username
+  instagram: #username
+  lastfm: #username
+  tumblr: #username
+  pinterest: #username
+  foursquare: #username
+  steam: #username
+  dribbble: #username
+  youtube: #username
+  soundcloud: #username
+  flickr: #username
+  codepen: #username
