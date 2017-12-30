@@ -2,7 +2,7 @@
 layout: post
 title:  "可视化笔记"
 categories: infovis 信息可视化笔记 分类(categories)
-tags: [心情]
+tags: [学习笔记]
 date:   2017-12-26 11:44:41 +0800
 comments: true
 ---
