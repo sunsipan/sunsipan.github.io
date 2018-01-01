@@ -8,3 +8,5 @@ comments: true
 ---
 > 期中项目
 ### [北京，距离蓝天还有多远？](https://sunsipan.github.io/middle-term/Tableau.html)
+{: .center}
+![beijingsky]({{ site.url }}/assets/blogImg/beijingsky.jpg)
