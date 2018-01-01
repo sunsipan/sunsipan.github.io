@@ -1,4 +1,4 @@
-i---
+---
 layout: post
 title: "Tableau-期中项目"
 categories: [期中项目]
