@@ -1,3 +1,4 @@
+
 ---
 layout: post
 title:  "可视化笔记"
@@ -39,8 +40,8 @@ comments: true
 三、数据仪表板和故事
 通过仪表板将数据所要表达的故事展现出来，对数据进行分析，摸索更具有表达性故事性的图表
 实操性比较强
-
-### 备注
-#### [tableau 哪一个图表或图形适合您？]({{ site.url }}/assets/pdf/Which_chart_or_figure_is_suitable_for_you.pdf )
-
-#### [最简单的图形与最复杂的信息]({{ site.url }}/assets/pdf/最简单的图形与最复杂的信息_nodrm.pdf )
+> 相关阅读文本
+> [tableau 哪一个图表或图形适合您？]({{ site.url }}/assets/pdf/Which_chart_or_figure_is_suitable_for_you.pdf )
+> [最简单的图形与最复杂的信息]({{ site.url }}/assets/pdf/最简单的图形与最复杂的信息_nodrm.pdf )
+>[下载链接_tableau 哪一个图表或图形适合您？密码：lx22](链接：https://pan.baidu.com/s/1mhG2Uus 密码：lx22)
+>[下载链接_最简单的图形与最复杂的信息 密码：8uk4](链接：https://pan.baidu.com/s/1mixMn00 密码：8uk4)
