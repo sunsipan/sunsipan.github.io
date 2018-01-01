@@ -41,6 +41,6 @@ comments: true
 实操性比较强
 
 ### 备注
-#### [tableau 哪一个图表或图形适合您？]({{ site.url }}/assets/pdf/Which chart or figure is suitable for you?.pdf )
+#### [tableau 哪一个图表或图形适合您？]({{ site.url }}/assets/pdf/Which_chart_or_figure_is_suitable_for_you.pdf )
 
 #### [最简单的图形与最复杂的信息]({{ site.url }}/assets/pdf/最简单的图形与最复杂的信息_nodrm.pdf )
