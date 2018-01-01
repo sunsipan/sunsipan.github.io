@@ -41,4 +41,6 @@ comments: true
 实操性比较强
 
 ### 备注
-参考源文件：[最简单的图形与最复杂的信息_]({{ site.url }}/assets/pdf/最简单的图形与最复杂的信息_nodrm.pdf )
+#### [tableau 哪一个图表或图形适合您？]({{ site.url }}/assets/pdf/Which chart or figure is suitable for you?.pdf )
+
+#### [最简单的图形与最复杂的信息]({{ site.url }}/assets/pdf/最简单的图形与最复杂的信息_nodrm.pdf )
