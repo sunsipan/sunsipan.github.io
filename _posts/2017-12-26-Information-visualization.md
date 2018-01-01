@@ -43,4 +43,5 @@ comments: true
 > 相关阅读文本
 ###### [tableau 哪一个图表或图形适合您？]({{ site.url }}/assets/pdf/Which_chart_or_figure_is_suitable_for_you.pdf )
 ###### [最简单的图形与最复杂的信息]({{ site.url }}/assets/pdf/最简单的图形与最复杂的信息_nodrm.pdf )
-<div markdown="0"><a href="https://pan.baidu.com/s/1dFq8UNB" class="btn btn-info">下载链接</a></div>
+<div markdown="0"><a href="https://pan.baidu.com/s/1dFq8UNB" class="btn btn-info">下载链接BOOK1</a></div>
+<div markdown="0"><a href="https://pan.baidu.com/s/1eSET1SY" class="btn btn-info">下载链接BOOK2</a></div>
