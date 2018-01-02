@@ -16,15 +16,19 @@ comments: true
 * 善用但不乱用字体FONTS（易读性、图表的字体编排）
 * 数据连续统一，加强视觉冲击THE VISUAL—DATA CONTINUUM
 * 巧妙运用颜色COLOR
+<br/>
 > 制作必备常识
 * 数值计算DO THE MATH
 * 拷贝图表风格COPY STYLE IN CHARTS
 * 金钱MONEY
+<br/>
 > 应对图表制作中的常见问题
 * 缺失数据MISSING DATA(是否还值得为其绘制图表？)
 * 大数字，小变化BIG NUMBERS, SMALL CHANGE(不能夸张强调)
 * 类比刻度COMPARABLE SCALES
 * 用黑墨着色COLORING WITH BLACK LNK(形成对比和强调要点)
+<br/>
+[具体的内容笔记](http://note.youdao.com/noteshare?id=ea6b05d28cf6b33b1d8e788731019ea5&sub=DD942031D94A4DD895742CF4CF993581)
 
 > 图表类型
 [关系图](http://note.youdao.com/noteshare?id=8868eabf7e87eabd43d6cc48f09334c1)
