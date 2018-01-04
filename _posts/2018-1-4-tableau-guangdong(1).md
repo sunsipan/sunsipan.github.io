@@ -9,4 +9,4 @@
 
 数据显示：
 * 通过图表的显现，一开始，我在一张简单的地图数据中了解到广东省通信分布情况中，移动的分布相对于其它两个会比较明显！
-{: .center} ![beijingsky]({{ site.url }}/assets/blogimg/tableau-guangdongmap)
+{: .center} ![beijingsky]({{ site.url }}/assets/blogimg/tableau-guangdongmap.png)
