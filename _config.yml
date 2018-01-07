@@ -1,10 +1,17 @@
-
-locale: "zh"
+#
+###################################
+# Site wide configuration
+####################################
+#
 title: "SunKatrina盼盼's Blog"       
 description: '尝一口人间果，走一遭人生路'
-url: "https://sunsipan,github.io"
-teaser: "assets/blogimg/earth.jpg"
+url:         # the base hostname & protocol for your site
 
+#
+###################################
+# Jekyll configuration
+####################################
+#
 timezone: Asia/Shanghai          
 markdown: kramdown          
 highlighter: rouge
@@ -12,34 +19,29 @@ excerpt_separator: <!--more-->
 permalink:         /:year/:month/:title/
 timezone:          Asia/Shanghai
 
-
-
 kramdown:
   auto_ids:       true
   footnote_nr:    1
   entity_output:  as_char
   toc_levels:     1..6
-  enable_coderay: false  
+  enable_coderay: false
 
 # Pagination
 gems: [jekyll-paginate]
 paginate: 10
 paginate_path: "page/:num/"
 
-
-
-sass:
-  sass_dir: _sass
-  style: compressed
-
-  
-  
+#
+###################################
+# Site Owner configuration
+####################################
+#
 owner:
   name: SunKatrina盼盼
   avatar: avatar.jpg
   job: "python"
   bio: "尝一口人间果，走一遭人生路"
-    
+
   github: sunsipan #username
   weibo: pp199706
   facebook:  #username
@@ -69,37 +71,3 @@ owner:
   soundcloud: #username
   flickr: #username
   codepen: #username
-  # reading files
-gems:
-  - jekyll-sitemap
-  - jekyll-gist
-  - jekyll-feed
-
-    
-include:
-   - .htaccess
-   - _pages
-exclude:
-  - "*.less"
-  - "*.sublime-project"
-  - "*.sublime-workspace"
-  - .asset-cache
-  - .bundle
-  - .jekyll-assets-cache
-  - .sass-cache
-  - CHANGELOG
-  - Capfile
-  - Gemfile
-  - Gruntfile.js
-  - LICENSE
-  - README
-  - Rakefile
-  - config
-  - gulpfile.js
-  - lib
-  - log
-  - node_modules
-  - package.json
-  - spec
-  - tmp
-  
