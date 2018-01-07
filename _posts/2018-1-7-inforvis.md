@@ -10,17 +10,20 @@ comments: true
 ![beijingsky]({{ site.url }}/assets/blogimg/beijingsky.jpg)
 #### 作品一--期中项目
 * 引入：北京雾霾问题日益严峻，环境污染治理投资规模不断增加,现我们按照建设美丽中国、生态文明的目标去度量和评价污染治理投资对减少雾霾的贡献力是多少。
+
 > 提出问题
 * 北京雾霾问题日益严峻，环境污染治理投资规模不断增加,废气的减少是否有效缓解雾霾呢？
 * 生态建设和环境保护的力度在不断加大吗？
 * 造林面积有在增加吗？
 * 出门，还是小汽车吗？
 * 排放物真的在减少吗？
-##### 调查的相关数据分析
 
-![beijing]({{ site.url }}/assets/blogimg/middle-term-beijing.png)
 
-* [北京，距离蓝天还有多远？](https://sunsipan.github.io/middle-term/Tableau.html)
+##### 调查的相关数据分析(其中的图表)
+
+{: .center} ![beijing]({{ site.url }}/assets/blogimg/middle-term-beijing.png)
+
+* 具体的调查笔记[北京，距离蓝天还有多远？](https://sunsipan.github.io/middle-term/Tableau.html)
 
 ##### 总结
 北京雾霾问题的确引起了多方重视，从雾霾产生的源头上，因为产业结构调整、相关政策的实施、民众的环境意识增强，废气排放物等都减少了。从缓解雾霾的措施上看，生态建设和环境保护的力度不断增大，也都取得了有效的防控作用。如此看来北京的蓝天将会与我们更近！
