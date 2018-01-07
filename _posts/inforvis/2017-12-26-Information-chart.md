@@ -2,8 +2,6 @@
 layout: post
 title:  "哪一个图表或图形适合您？"
 categories: posts infovis  
-header:
-	teaser: /img/infovis-01.png
 tags: [学习笔记]
 date:   2017-12-26 
 comments: true

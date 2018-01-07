@@ -1,8 +1,6 @@
 ---
 layout: post
 title: "可视化作品--北京，距离蓝天还有多远？"
-header:
-	teaser: /img/portfolio-01.png
 categories: portfolio
 tags: [作品展示]
 date: 2018-1-1 2:50:41 +0800
