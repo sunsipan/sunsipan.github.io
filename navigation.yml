@@ -1,0 +1,20 @@
+# Site navigation links
+
+- title: "网页设计笔记"
+  url: /posts/rwd/
+  excerpt: "网页设计的相关笔记以及参考书籍"
+ 
+
+- title: "信息可视化笔记"
+  url: /posts/infovis/
+  excerpt: "信息可视化"
+  
+
+- title: "网页设计作品集"
+  url: /portfolio/
+  excerpt: "学习作品"
+
+
+- title: "信息可视化作品集"
+  url: /infovis/
+  excerpt: "学习作品"
