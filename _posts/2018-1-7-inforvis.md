@@ -6,7 +6,7 @@ tags: [作品展示]
 date: 2018-1-1 2:50:41 +0800
 comments: true
 ---
-![效果图]({{ site.url }}/assets/blogimg/tablaeu-02.png)
+{: .center}![效果图]({{ site.url }}/assets/blogimg/tableau-02.png)
 #### 作品一--期中项目
 * 引入：北京雾霾问题日益严峻，环境污染治理投资规模不断增加,现我们按照建设美丽中国、生态文明的目标去度量和评价污染治理投资对减少雾霾的贡献力是多少。
 
