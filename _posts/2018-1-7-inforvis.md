@@ -17,7 +17,7 @@ comments: true
 * 出门，还是小汽车吗？
 * 排放物真的在减少吗？
 ##### 调查的相关数据分析
-{: .center}
+
 ![beijing]({{ site.url }}/assets/blogimg/middle-term-beijing.png)
 
 * [北京，距离蓝天还有多远？](https://sunsipan.github.io/middle-term/Tableau.html)
