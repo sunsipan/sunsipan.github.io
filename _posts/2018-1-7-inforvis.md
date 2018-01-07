@@ -6,7 +6,7 @@ tags: [作品展示]
 date: 2018-1-1 2:50:41 +0800
 comments: true
 ---
-{: .center}![效果图]({{ site.url }}/assets/blogimg/tableau1.png)
+![效果图]({{ site.url }}/assets/blogimg/tableau1.png)
 #### 作品一--期中项目
 * 引入：北京雾霾问题日益严峻，环境污染治理投资规模不断增加,现我们按照建设美丽中国、生态文明的目标去度量和评价污染治理投资对减少雾霾的贡献力是多少。
 
@@ -20,7 +20,7 @@ comments: true
 
 ##### 调查的相关数据分析(其中的图表)
 
-{: .center} ![beijing]({{ site.url }}/assets/blogimg/middle-term-beijing.png)
+ ![beijing]({{ site.url }}/assets/blogimg/middle-term-beijing.png)
 
 * 具体的调查笔记[北京，距离蓝天还有多远？](https://sunsipan.github.io/middle-term/Tableau.html)
 
