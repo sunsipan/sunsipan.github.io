@@ -86,7 +86,7 @@ comments: true
 * 通过仪表板将数据所要表达的故事展现出来，对数据进行分析，摸索更具有表达性故事性的图表
 * 实操性比较强
 
-#### [tableau的学习心得]()
+#### [tableau的学习心得](https://sunsipan.github.io/2018/01/share-tebleau/)
 > 相关阅读文本
 * [tableau 哪一个图表或图形适合您？]({{ site.url }}/assets/pdf/Which_chart_or_figure_is_suitable_for_you.pdf )
 * [最简单的图形与最复杂的信息]({{ site.url }}/assets/pdf/最简单的图形与最复杂的信息_nodrm.pdf )
