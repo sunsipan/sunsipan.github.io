@@ -17,7 +17,7 @@ comments: true
 * 按css及颜色知识巧妙地运用
 * 右侧文字说明
 * 左侧文字说明
-*![color]({{ site.url }}/_posts/css/color.jpg)
+*![color]({{ site.url }}/assets/blogimg/color.jpg)
 > [练习成果]((https://sunsipan.github.io/css/index.html)
 )
 
