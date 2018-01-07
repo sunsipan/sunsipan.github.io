@@ -18,7 +18,7 @@ comments: true
 * 右侧文字说明
 * 左侧文字说明
 *![color]({{ site.url }}/assets/blogimg/color.jpg)
-> [练习成果]((https://sunsipan.github.io/css3/index.html)
+> [练习成果](https://sunsipan.github.io/css3/index.html)
 )
 
 ### 期末专题--个人blog的搭建
