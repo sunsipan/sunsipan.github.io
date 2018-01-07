@@ -1,7 +1,9 @@
 ---
 layout: post
 title:  "可视化笔记"
-categories: infovis  
+categories: posts infovis  
+header:
+	teaser: /img/infovis-01.png
 tags: [学习笔记]
 date:   2017-12-26 11:44:41 +0800
 comments: true

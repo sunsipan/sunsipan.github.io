@@ -1,7 +1,9 @@
 ---
 layout: post
 title: "笔记-可视化之Tableau工具"
-categories: infovis
+categories: posts infovis
+header:
+	teaser: /img/infovis-01.png
 tags: [学习分享]
 date: 2018-1-2 18:12:41 +0800
 comments: true
